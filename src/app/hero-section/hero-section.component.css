@@ -90,6 +90,27 @@
     background: var(--foundation-green-normal, #8FE669);
 }
 
+.s {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+#a {
+    background: var(--foundation-green-normal, #8FE669);
+    text-transform: uppercase;
+    color: white;
+    margin-right: 20px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+#b {
+    text-transform: uppercase;
+    color: white;
+    background: var(--foundation-blue-normal, #0036D2);
+    margin-right: 20px;
+}
 
 
 #timer {
